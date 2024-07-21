@@ -33,3 +33,5 @@ build
 .env
 
 prod-env.yaml
+
+index.js
